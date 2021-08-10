@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmallouf
-- 👀 I’m interested in GitHub.
-- 🌱 I’m currently learning GitHub.
-- 💞️ I’m looking to collaborate on GitHub.
+- 👀 I’m interested in ... GitHub.
+- 🌱 I’m currently learning ... GitHub.
+- 💞️ I’m looking to collaborate on ... GitHub.
 - 📫 How to reach me ...
 
 <!---
